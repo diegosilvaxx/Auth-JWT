@@ -1,0 +1,14 @@
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.2\APIAlturas.deps.json
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.2\APIAlturas.runtimeconfig.json
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.2\APIAlturas.runtimeconfig.dev.json
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.2\APIAlturas.dll
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.csprojAssemblyReference.cache
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.csproj.CoreCompileInputs.cache
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.RazorAssemblyInfo.cache
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.RazorAssemblyInfo.cs
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.AssemblyInfoInputs.cache
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.AssemblyInfo.cs
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.RazorTargetAssemblyInfo.cache
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\bin\Debug\netcoreapp2.2\APIAlturas.pdb
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.dll
+C:\Users\dsborges\source\repos\APIAlturas\APIAlturas\obj\Debug\netcoreapp2.2\APIAlturas.pdb
